@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.nnotes.notes;
 
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
