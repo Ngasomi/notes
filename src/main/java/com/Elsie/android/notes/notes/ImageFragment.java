@@ -11,7 +11,7 @@ import android.widget.ImageView;
 public class ImageFragment extends DialogFragment {
 
     public static final String EXTRA_IMAGE_PATH =
-        "com.donnemartin.android.notes.path";
+        "com.elsie.android.notes.path";
 
     public static ImageFragment newInstance(String imagePath) {
         Bundle args = new Bundle();
