@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.notes.notes;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
