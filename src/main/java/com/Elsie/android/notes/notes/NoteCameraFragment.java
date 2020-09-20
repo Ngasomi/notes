@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.notes.notes;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -21,7 +21,7 @@ public class NoteCameraFragment extends Fragment {
 
     private static final String TAG = "NoteCameraFragment";
     public static final String EXTRA_PHOTO_FILENAME =
-        "com.donnemartin.android.notes.photo_filename";
+        "com.elsie.android.notes.photo_filename";
 
     private Camera mCamera;
     private SurfaceView mSurfaceview;
