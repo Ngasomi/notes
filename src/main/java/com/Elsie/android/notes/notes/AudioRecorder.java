@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.notes.notes;
 
 import android.media.MediaRecorder;
 import android.util.Log;
