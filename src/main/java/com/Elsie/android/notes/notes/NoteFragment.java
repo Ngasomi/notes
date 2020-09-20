@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.notes.notes;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -44,7 +44,7 @@ public class NoteFragment extends Fragment {
     private static final String TAG = "NoteFragment";
 
     public static final String EXTRA_NOTE_ID =
-        "com.donnemartin.android.notes.note_id";
+        "com.elsie.android.notes.note_id";
 
     private static final String AUDIO_POS_INDEX = "audio_pos_index";
     private static final String DIALOG_IMAGE = "image";
