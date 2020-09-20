@@ -1,4 +1,4 @@
-package com.donnemartin.android.notes.notes;
+package com.elsie.android.notes.notes;
 
 import android.annotation.TargetApi;
 import android.content.Intent;
